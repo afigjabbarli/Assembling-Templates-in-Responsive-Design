@@ -1,0 +1,32 @@
+.Button-Book:link, .Button-Book:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 25px;
+  }
+  .Button-Book:hover, .Button-Book:active {
+      background-color: red;
+    }  
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.navigation .col-st-6-center ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navigation .col-st-6-center ul li{
+    margin-left: 50px;
+}
+header .navigation{
+    display: flex;
+    align-items: center;
+}
+header .navigation .col-st-3-left span{
+   color: #f44336;
+}
