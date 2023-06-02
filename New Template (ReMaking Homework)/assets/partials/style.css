@@ -1,2 +1,3 @@
 @import url(./global.css);
-@import url(../Style/header-standart/header-st.css);
+@import url(../Style/Header/header-st.css);
+@import url(..//Style/Header/header-md.css);
