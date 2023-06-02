@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Pacifico&display=swap');
+.left-button:link, .left-button:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 10px 24px;
+    width: 130px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 25px;
+  }
+  .left-button:hover, .left-button:active {
+      background-color: red;
+    }  
+    .right-button {
+        display: inline-flex;
+        align-items: center;
+        text-decoration: none;
+        color: #000;
+        padding: 10px 24px;
+        width: 130px;
+        height: 21px;
+        background-color: white;
+        border-radius: 25px;
+        border-style: solid;
+        border-color: white;
+      }
+      
+      .right-button i {
+        margin-right: 5px;
+        color: #f44336;
+        
+    }
+    
+    .right-button span {
+      font-weight: bold;
+    }
+    #intro{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    #intro .col-st-6-left{
+       margin-right: 150px;
+       
+    }
+    #intro .col-st-6-right{
+        display: flex;
+       justify-content: flex-start;
+    }
+         
+    #intro .col-st-6-left h2{
+        font-family: 'Amatic SC', cursive;
+        font-size: 60px;
+    }
+    #intro .col-st-6-left div .buttons{
+        display: flex;
+        align-items: center;
+    }
+   
+
+        
+       

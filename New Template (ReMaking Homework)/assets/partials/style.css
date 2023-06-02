@@ -1,3 +1,3 @@
-@import url(./global.css);
-@import url(../Style/Header/header-st.css);
-@import url(..//Style/Header/header-md.css);
+@import url(..//partials/global.css);
+@import url(..//Style/Header/header-st.css);
+@import url(..//Style/intro-section/intro-section-st.css);
